@@ -65,8 +65,12 @@ body {
   }
   
   .figure-direita {
-    margin: 10px 0;
-    text-align: right;
+    margin: 20px 0;
+    text-align: center;
+ 
+  }
+  .teste{
+    height: 200px;
   }
 
   .figure-centro {
@@ -86,5 +90,7 @@ body {
     color: #333;
     padding: 20px;
     text-align: center;
-  }
+    /* position: absolute;
+    bottom:  100px;
+  } */
   
