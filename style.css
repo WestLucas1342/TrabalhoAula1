@@ -70,12 +70,20 @@ body {
  
   }
   .teste{
-    height: 200px;
+    height: 230px;
+  }
+
+  div {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 1000px;
+    height:800px;
   }
 
   .figure-centro {
     margin: 20px 0;
     text-align: center;
+
   }
   
   figcaption {
