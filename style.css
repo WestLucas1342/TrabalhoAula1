@@ -73,15 +73,12 @@ body {
     height: 230px;
   }
 
-  div {
-    border: 1px solid black;
-    border-radius: 10px;
-    width: 1000px;
-    height:800px;
+  #novadiv {
+    padding: 20px;
   }
 
   .figure-centro {
-    margin: 20px 0;
+    margin: 30px 0;
     text-align: center;
 
   }
