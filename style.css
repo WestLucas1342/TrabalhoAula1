@@ -69,9 +69,6 @@ body {
     text-align: center;
  
   }
-  .teste{
-    height: 230px;
-  }
 
   #novadiv {
     padding: 20px;
@@ -87,7 +84,9 @@ body {
     font-size: 0.8em;
     color: #666;
   }
-  
+  p{
+    text-align: left;
+  }
   /* Estilos do rodapé */
   
   footer {
