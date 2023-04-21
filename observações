@@ -1,2 +1,3 @@
 Fechar o main
 Hover
+<input id="button" type="button" value="Confirmar Email" onclick="ConfirmarEmail()"
