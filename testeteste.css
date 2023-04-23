@@ -1,27 +1,18 @@
-/* Estilos globais TECNOLOGIA*/
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #c3e7ff;;
+    background-color: #dedede;
   }
   
-  h1,
-  h2 {
+  h1, h2 {
     font-weight: bold;
-    text-align: center;
-  }
-  
-  h4 {
-    text-align: center;
   }
   
   /* Estilos do cabeçalho */
   
   header {
-    background-image: linear-gradient(to right,
-     #000023, #003f7e);
+    background-image: linear-gradient(to right, #02001d,#4894bd);
     color: #fff;
     padding: 20px;
     display: flex;
@@ -51,7 +42,7 @@ body {
   }
   
   /* Estilos do conteúdo principal */
-
+  
   main {
     max-width: 800px;
     margin: 20px auto;
@@ -74,38 +65,36 @@ body {
   .figure-direita {
     margin: 20px 0;
     text-align: center;
-  
+ 
   }
-  
-  .teste {
-    height: 230px;
+
+  #novadiv {
+    padding: 20px;
   }
-  
-  .divarredondado {
-    border: 1px solid black;
-    border-radius: 10px;
-    width: 800px;
-    height: 800px;
-  }
-  
-  .figure-centro {
-    margin: 20px 0;
+
+  #centraliza {
     text-align: center;
-  
+  }
+
+  .figure-centro {
+    margin: 30px 0;
+    text-align: center;
+
   }
   
   figcaption {
     font-size: 0.8em;
-    color: #312d2d;
+    color: #666;
   }
-  
+  p{
+    text-align: left;
+  }
   /* Estilos do rodapé */
   
   footer {
-    background-color: #000023;
-    color: #ffffff;
+    background-color: #ccc;
+    color: #333;
     padding: 20px;
     text-align: center;
     /* position: absolute;
-      bottom:  100px;
-    } */
+    bottom:  100px;
