@@ -22,7 +22,7 @@ h4 {
 
 header {
   background-image: linear-gradient(to right,
-   #08330e, rgb(1, 151, 14));
+   #115d0a, rgb(69, 141, 65));
   color: #fff;
   padding: 20px;
   display: flex;
@@ -103,7 +103,7 @@ figcaption {
 /* Estilos do rodapé */
 
 footer {
-  background-color: #0b4513;
+  background-color: #3e7545;
   color: #ffffff;
   padding: 20px;
   text-align: center;
